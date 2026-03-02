@@ -46,4 +46,4 @@ class Product {
         return this.price * this.quantity;
     }
 }
-Write to Alia Espanto
+Write to intertas
