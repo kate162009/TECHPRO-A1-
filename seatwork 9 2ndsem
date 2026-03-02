@@ -29,9 +29,9 @@ public class Account {
 
         ArrayList<Student> students = new ArrayList<>();
 
-        students.add(new Student(1, "Alia"));
-        students.add(new Student(2, "Anika"));
-        students.add(new Student(3, "Claris"));
+        students.add(new Student(1, "Kate"));
+        students.add(new Student(2, "Johnpaul"));
+        students.add(new Student(3, "Intertas"));
 
         System.out.println("\n--- Displaying Student Records ---");
         for (Student s : students) {
