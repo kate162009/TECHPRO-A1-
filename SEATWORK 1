@@ -46,4 +46,4 @@ class Product {
         return this.price * this.quantity;
     }
 }
-Write to intertas
+Write to intertas kate
